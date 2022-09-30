@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+/*	 Global stylesheets*/
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900');
+@import url('assets/css/icons/icomoon/styles.css');
+@import url('assets/css/bootstrap.css');
+@import url('assets/css/core.css');
+@import url('assets/css/components.css');
+@import url('assets/css/colors.css');
+/* /global stylesheets*/
+
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #e01a76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
